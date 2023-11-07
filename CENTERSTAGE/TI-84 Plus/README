@@ -1,0 +1,10 @@
+These are TI-Basic programs for the TI-84 Plus family of calculators to collect scouting data during an FTC tournament
+
+
+SetupFTC – this needs to be run only once to set things up 
+
+FTCScout – this needs to be run for each team that data is being collected from.
+
+The data is saved in lists and can be seen in the list editor through the “Stat” (button) -> “Edit..” menu
+
+These programs only collect the data and make it available for analysis. 
