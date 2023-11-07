@@ -1,5 +1,7 @@
 This TNS file contains a TI-Basic program to collect scouting data during an FTC tournament
+It can be transferred to a TI-Nspire CX II calculator using the online Nspire Connect application at https://nspireconnect.ti.com/nsc/
 
+Run the program on page 1.2 and answer the prompts to collect the scouting data
 The data is saved in lists and can be seen in the Lists & Spreadsheets app on page 1.4
 
 This program only collects the data and makes it available for analysis.
