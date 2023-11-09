@@ -9,3 +9,5 @@ FTCScout – this needs to be run for each team that data is being collected fro
 The data is saved in lists and can be seen in the list editor through the “Stat” (button) -> “Edit..” menu
 
 These programs only collect the data and make it available for analysis. 
+
+Note: The lists only store numeric data - so "Y/N" is stored as "1/0"
