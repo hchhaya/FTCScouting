@@ -1,5 +1,5 @@
 # FTCScouting
-Programs to help with scouting in FIRST Tech Challenge (FTC) robotics competitions
+Programs for TI calculators to help with scouting in FIRST Tech Challenge (FTC) robotics competitions
 
 This repo contains programs to help with scouting at FIRST Tech Challenge (FTC) competitions.
 
